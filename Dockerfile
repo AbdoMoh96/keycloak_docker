@@ -25,7 +25,7 @@ ENV KC_DB=postgres
 ENV KC_DB_URL=jdbc:postgresql://postgres:5432/keycloak
 ENV KC_DB_USERNAME=admin
 ENV KC_DB_PASSWORD=admin
-ENV KC_HOSTNAME=0.0.0.0
+# ENV KC_HOSTNAME=0.0.0.0
 
 
 # start for development (port : 8080)
