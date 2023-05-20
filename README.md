@@ -45,7 +45,7 @@ service docker start
 
 ### git clone the keycloak_docker repository
 ```
- git clone <url here> 
+ git clone https://github.com/AbdoMoh96/keycloak_docker.git
 ```
 
 <br />
